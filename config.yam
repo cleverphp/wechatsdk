@@ -1,0 +1,14 @@
+#follow are all configs for wechat mp dev...
+
+appID
+Your appid
+appsecret
+Your appsecret
+请填写接口配置信息，此信息需要你有自己的服务器资源，填写的URL需要正确响应微信发送的Token验证，请阅读消息接口使用指南
+Url...
+host + /msg/auth/
+Token
+Your Token
+
+
+
